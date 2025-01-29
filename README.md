@@ -1,14 +1,7 @@
-# DeepSeek Sensitive Hide
+# DeepSeek Privacy
 
 ## Description
 This userscript is designed to help you hide and replace sensitive data on the DeepSeek chat interface. It provides a user-friendly UI to manage sensitive words and their replacements, ensuring that sensitive information is not displayed in plain text.
-
-## Features
-- **Sensitive Data Replacement**: Automatically replaces sensitive words with user-defined replacements.
-- **Case Sensitivity**: Option to toggle case sensitivity for word matching.
-- **Dynamic Content Handling**: Observes DOM changes to ensure replacements are applied to dynamically loaded content.
-- **Persistent Storage**: Saves sensitive data and settings in `localStorage` for persistence across sessions.
-- **Theme Detection**: Automatically adjusts the UI to match the page's theme (light or dark).
 
 ## Installation
 1. Install a userscript manager like [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://www.greasespot.net/).

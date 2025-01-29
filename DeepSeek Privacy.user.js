@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         DeepSeek Sensitive Hide
-// @namespace    https://github.com/landifrancesco/DeepSeek-Sensitive-Hide
-// @version      1.6
+// @name         Deepseek Privacy
+// @namespace    https://github.com/landifrancesco/Deepseek-Privacy
+// @version      1
 // @description  Hide and replace sensitive data on the chat interface with a user-friendly UI.
 // @author       Francesco Landi
-// @match        https://chat.deepseek.com/*
+// @match        https://chat.deepseek.com/a/chat/s/*
 // @grant        GM_addStyle
+// @license      GNU General Public License v3.0
 // ==/UserScript==
 
 (function () {
