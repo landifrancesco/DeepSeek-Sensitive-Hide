@@ -1,4 +1,4 @@
-# DeepSeek Privacy
+# Deepseek Privacy
 
 ## Description
 This userscript is designed to help you hide and replace sensitive data on the DeepSeek chat interface. It provides a user-friendly UI to manage sensitive words and their replacements, ensuring that sensitive information is not displayed in plain text.
